@@ -1,2 +1,6 @@
-for i in range(100,200,25):
-    print(i)
+print('While loop version:')
+
+number = 1
+while number <=10:
+    print(number)
+    number +=1

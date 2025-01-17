@@ -46,7 +46,7 @@ while True:
         print('Tie, game buddy')
         ties = ties +1
     elif playerMove == 'r' and computerMove == 's':
-        print("+1 point")
+        print("You win!")
         wins = wins + 1
     elif playerMove == 'p' and computerMove == 'r':
         print('You win!')
