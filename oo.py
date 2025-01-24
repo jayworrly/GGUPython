@@ -6,4 +6,4 @@ if name == 'Mary':
     if password == ('hellobob123'):
         print('Access Granted')
     else:
-        print('Access Fuck you')
+        print('Access Denied')
